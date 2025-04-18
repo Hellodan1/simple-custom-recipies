@@ -1,0 +1,8 @@
+name: Simple Custom Recipies
+version: '0.1'
+main: cc.hellodan.simpleCustomRecipies.SimpleCustomRecipies
+api-version: '1.21'
+prefix: customRecipes
+load: STARTUP
+authors: [ Hellodan ]
+description: Simple plugin for adding custom recipes
